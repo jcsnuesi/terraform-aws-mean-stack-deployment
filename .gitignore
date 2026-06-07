@@ -1,2 +1,4 @@
 ami-packer.pem
 terraform.tfstate
+angular
+.terraform
