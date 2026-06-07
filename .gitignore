@@ -1,4 +1,5 @@
 ami-packer.pem
 terraform.tfstate
-angular
+/angular
 .terraform
+terraform.tfstate.backup
